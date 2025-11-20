@@ -21,7 +21,7 @@ max_try=5
 while [[ $try -lt $max_try ]]; do
 
     # Receive a number from a player
-    read -p "Enter a number of your choice: " num
+    read -r -p "Enter a number of your choice: " num
 
 
 echo   "=================="
