@@ -2,7 +2,11 @@
 
 
 
-echo   "=================="
+echo   "==========================="
+echo   "    Guessing Game in Bash     "
+
+echo   "==========================="
+
 
 
 # defined variables of the range of numbers to find the random numbers
